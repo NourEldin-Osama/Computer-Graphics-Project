@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2ee1f2c2-040c-46d8-8332-127b746115a6": {
+      "ProjectGuid": "2ee1f2c2-040c-46d8-8332-127b746115a6",
+      "DisplayName": "Texture",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
